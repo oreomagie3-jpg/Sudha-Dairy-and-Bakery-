@@ -1,0 +1,8 @@
+{
+  "name": "Vimo",
+  "description": "Premium online ordering platform for fresh dairy products and delicious bakery items from Sudha Dairy & Bakers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
